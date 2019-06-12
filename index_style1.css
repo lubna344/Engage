@@ -1,0 +1,653 @@
+/* @media all and (min-width: 480px){
+    body{
+        background-color: #fff;
+        
+    }
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    font-family: "segoe ui light";
+}
+
+.luv{
+    
+    height: 800px;
+    background-image: url(images/business-2.jpg);
+    background-size: 100% 100%;
+    
+    
+}
+
+
+.luv .cap{
+    
+    color: #5A1246;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.luv h2{
+    
+    margin-top: 140px;
+    text-align: center;
+    font-size: 130%;
+    font-weight: 900;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.luv p{
+    
+    text-align: center;
+    font-size: 310%;
+    font-weight: 200;
+    font-family: 'Song Myung', serif;
+    
+}
+
+
+
+.luv .btn{
+    
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+.luv .btn button{
+    
+    padding: 15px 28px;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: #4caf50;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    
+    
+}
+
+.nav{
+    
+    background-color: rgba(0,0,0,0.5);
+    overflow: hidden;
+
+} 
+.ul ul li{
+    float: left;
+} 
+.ul {
+    float: right;
+}
+
+.nav ul {
+    
+    background-color: rgba(0,0,0,0.5);
+    padding-left: 0;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.nav ul li{
+    
+    margin-bottom: 2px;
+    padding-top: 20px;
+    margin-left: 20px;
+    
+}
+
+.nav ul li a{
+    
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.logo{
+
+    float:left;
+    padding-top: 0;
+    
+}
+
+.nav img{
+    
+    height: 50px;
+}
+
+.logo img{
+    
+    background-size: 100% 100%;
+}
+
+.dis{
+    
+    font-size: 100%;
+    padding: 50px 20px;
+    overflow: hidden;
+}
+
+.dis .icon{
+    
+    width: 32.5%;
+    text-align: center;
+    float: left;
+    
+    
+}
+.dis .icon img{
+    
+    
+    width: 32.5%;
+    float: left;
+    
+}
+
+.dis .icon h2{
+    
+    text-align: left;
+    font-size: 100% 100%;
+    
+    
+}
+    
+
+.dis .icon p{
+    
+    color: darkgoldenrod;
+    text-align: left;
+    font-size: 100% 100%;
+    font-family:sans-serif;
+    
+}
+
+.dis .icon img{
+    
+    
+    width: 5%;
+    float: left;
+    
+}
+
+.dis .icon img{
+    
+    
+    width: 5%;
+    float: left;
+
+}
+
+dis .icon h2, p {
+    
+    padding: 20px;
+    
+    
+}
+
+.clr{
+    
+    clear: both;
+}
+
+.ser{
+
+    background-color: beige;
+    font-size: 100%;
+    padding: 50px 20px;
+    overflow: hidden;
+}
+
+
+.ser .sam{
+    
+    width: 30%;
+    text-align: center;
+    float: left;
+    
+    
+}
+
+.ser .son{
+    
+    margin: 2%;
+}
+
+.ser .son h1{
+    
+    text-align: center;
+    color: black;
+    font-size: 250%;
+    
+}
+
+.ser .son p{
+    
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    color: #5C5655;
+    font-size: 105%;
+}
+
+.ser .sam img{
+    height: 40%;
+    width: 70%
+    font-size: 100% 100%;
+    
+}
+
+.ser .sam h1{
+    color: #5C5655;
+    text-align: left;
+    font-size: 130%;
+}
+
+.ser .sam p{
+    color: #5C5655;
+    text-align: left;
+    font-size: 108%;
+    font-family:cursive;
+    
+}
+
+
+.ser .sam button{
+    
+    padding: 15px 20px;
+    background-color:cadetblue;
+    font-size: 15px;
+    font-weight: 200;
+    border-radius:3px;
+    border: none;
+    color:#5c5655;
+}
+
+.clr{
+    
+    clear: both;
+}
+
+.jum{
+    
+    font-size: 100%;
+    padding: 56px 28px;
+    overflow: hidden;
+
+}
+
+.jum .uma{
+    
+    margin: 10%;
+    text-align: left;
+}
+
+
+.jum .uma img{
+    
+    width: 56%;
+    float: right;
+    padding-left: 55px;
+    margin-left: 10%;
+}
+
+.jum .uma p{
+    
+    font-size: 99%;
+    text-align: left;
+    margin-bottom: 0%;
+    
+}
+
+.jum .uma .btn .button{
+    
+    padding: 0px;
+    margin: 0%;
+    
+}
+
+.jum .uma h1{
+    
+    text-align: left;
+    padding-bottom: 10px;
+
+}
+
+.jum .btn{
+    
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+
+.jum .btn button{
+    
+    padding: 15px 20px;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: #4caf50;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    
+    
+}
+
+.clr{
+    
+    clear: both;
+}
+
+.tba{
+    
+    
+    font-size: 100%;
+    padding: 50px 20px;
+    overflow: hidden;
+    margin-top: 10%;
+    
+}
+
+.tba .tfg{
+
+    
+    width: 30%;
+    text-align: center;
+    float: left;
+    padding: 18px;
+        
+}
+
+.tba .tfg p{
+    
+    border-style:outset;
+    border-bottom: 20px;
+    border-color:darkred;
+    color: #5C5655;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-align: center;
+    float: left;
+    font-size: 110%;
+    
+    
+}
+
+.tba .tfg h4{
+    
+    color: #5C5655;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-align: left;
+    font-weight: 100;
+}
+
+.clr{
+    
+    clear: both;
+}
+
+.numb{
+    
+    padding: 40px 18px;
+    font-size: 100%;
+    overflow: hidden;
+}
+
+.numb .gon{
+    
+    width: 25%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    float: left;
+    
+}
+
+.numb .gon h1{
+    
+    text-align: center;
+    font-size: 400%;
+    
+}
+    
+
+.numb .gon p{
+    
+    color: #5C5655;
+    text-align: center;
+    font-size: 100% 100%;
+    font-family:sans-serif;
+    
+}
+
+.clr{
+    
+    clear: both;
+}
+
+.build {
+    
+    height: 500px;
+    background-image: url(images/full-2.jpg);
+    background-size: 100% 100%;
+    
+}
+
+.build .heda h1{
+    
+    color:beige;
+    padding-top: 180px;
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Song Myung', serif;
+    
+}
+
+.build .heda p{
+    
+    color: beige;
+    text-align: center;
+    font-size: 159%;
+    font-weight: 900;
+}
+
+.build .btnsa{
+    
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+.build .btnsa button{
+    
+    padding: 15px 28px;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: #4caf50;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    
+}
+
+.clr{
+    
+    clear: both;
+}
+
+.mafs {
+    
+    font-size: 100%;
+    padding: 40px 18px;
+    overflow: hidden;
+
+}
+
+.mafs .mosa{
+    
+    width: 32%;
+    padding-bottom: 50px; 
+    padding-top: 50px;
+    text-align: left;
+    float: left;
+    padding-left: 5px;
+    
+}
+
+
+.mafs .sofa h2{
+    
+    margin-top: 40px;
+    text-align: center;
+    color: black;
+    font-size: 200%;
+    
+}
+
+.mafs .sofa p{
+    
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    color: #5C5655;
+    font-size: 105%;
+}
+
+.mafs .mosa p{
+    
+    color: #5C5665;
+    padding-left: 6px;
+}
+
+
+.clr{
+    
+    clear: both;
+}
+
+
+.legos img{
+
+    width: 13%;
+    padding: 20px;
+}
+
+
+.convin{
+    
+    background-color: #4caf50;
+    padding: 50px 20px;
+    overflow: hidden;
+    margin-top: 60px;
+
+}
+
+.convin .movs{
+    
+    float: left;
+    background-size: 100% 100%;
+    text-align: left;
+    width: 33.333333%
+    
+}
+
+
+.convin .movs p{
+    
+    margin-left: 50px;
+    color: white;
+    font-size: 120%;
+    font-weight: 900;
+    text-align: left;
+    padding: 0px;
+    
+}
+
+.convin .movs h1{
+    
+    vertical-align:top;
+    margin-left: 50px;
+    color: white;
+    text-align: left;
+    
+
+}
+
+.convin .btn2{
+    
+    text-align: right;
+    width: 33.333333%;
+    float: right;
+    margin-right: 50px;
+    
+}
+
+.convin .btn2 button{
+    
+    padding: 20px 28px;
+    font-size: 15px;
+    font-weight: 300;
+    background-color: beige;
+    border-radius: 6px;
+    border: none;
+    color: black;
+    font-family:sans-serif;
+        
+}
+
+.clr{
+    
+    clear: both;
+}
+
+
+.footer
+{
+    background-color:#2B2928;
+    overflow: auto;
+    padding: 20px 0px;
+
+
+}
+
+.footer .item
+{
+    width: 25%;
+    float: left;
+    
+    
+}
+
+.item ul{
+    
+    padding-top: 20px;
+}
+
+.safe{
+    
+    overflow: hidden;
+    padding: 15px;
+}
+
+.safe img{
+    
+    position:inherit;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    opacity: 0.11;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.safe ul li {
+    
+    content: "";
+    position: relative;
+    left: 0px;
+    right: 120px;
+    bottom: 120px;
+    
+}
+
